@@ -12,9 +12,9 @@
 
 -  Exercises 1
 
-[Day1_Introduction_Exercises_1_Breast_Cancer_Classification.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1_Introduction_Exercises_1_Breast_Cancer_Classification.ipynb)
+[Day1-Introduction-Exercises-1-Breast-Cancer-Classification.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1_Introduction_Exercises_1_Breast_Cancer_Classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification.ipynb)
 
 
 -  Exercises 2
