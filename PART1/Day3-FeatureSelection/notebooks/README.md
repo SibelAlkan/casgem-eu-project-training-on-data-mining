@@ -18,15 +18,24 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-4-feature-creation.ipynb)
 
-7. [Feature Engineering-7-inconsistent-data-entry.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-7-inconsistent-data-entry.ipynb)
+5. [Feature Engineering-7-inconsistent-data-entry.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-7-inconsistent-data-entry.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-7-inconsistent-data-entry.ipynb)
 
-9. [Feature Engineering-9-pca.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Feature%20Engineering-9-pca.ipynb)
+6. [Feature Engineering-9-Principal_Component_Analysis.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Feature%20Engineering-9-Principal_Component_Analysis.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-9-pca.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-9-Principal_Component_Analysis.ipynb)
 
 
-10. [Feature Engineering-titanic-advanced-feature-engineering-tutorial.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Feature%20Engineering-titanic-advanced-feature-engineering-tutorial.ipynb)
+- Exercises 
+
+[Feature Engineering-HousePrices-Exercises-1.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Feature%20Engineering-HousePrices-Exercises-1.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-HousePrices-Exercises-1.ipynb)
+
+
+- Exercises (Advanced)
+
+[Feature Engineering-titanic-advanced-feature-engineering-tutorial.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Feature%20Engineering-titanic-advanced-feature-engineering-tutorial.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-titanic-advanced-feature-engineering-tutorial.ipynb)
