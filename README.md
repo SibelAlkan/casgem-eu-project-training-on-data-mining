@@ -11,6 +11,34 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Demo_2.ipynb)
 
 
+-  Exercises 1
+
+[Day1-Introduction-Exercises-1-Breast-Cancer-Classification.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification.ipynb)
+
+-  Exercises 1 (Solution)
+
+[Day1-Introduction-Exercises-1-Breast-Cancer-Classification(Solution).ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification(Solution).ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-1-Breast-Cancer-Classification(Solution).ipynb)
+
+
+-  Exercises 2
+
+[Day1-Introduction-Exercises-2-Car-Price-Prediction.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-2-Car-Price-Prediction.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-2-Car-Price-Prediction.ipynb)
+
+
+-  Exercises 2 (Solution)
+
+[Day1-Introduction-Exercises-2-Car-Price-Prediction(Solution).ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-2-Car-Price-Prediction(Solution).ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day1-Intro/notebooks/Day1-Introduction-Exercises-2-Car-Price-Prediction(Solution).ipynb)
+
+
+
 ### Day2-LinearAlgebra
 1. [Day2-LinearAlgebra - Demo1 Scalars, Vectors, Matrices, and Tensors.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day2-LinearAlgebra/notebooks/Day2-LinearAlgebra%20-%2001%20Scalars,%20Vectors,%20Matrices%20and%20Tensors/Day2-LinearAlgebra%20-%20Demo1%20Scalars,%20Vectors,%20Matrices,%20and%20Tensors.ipynb)
 
@@ -69,24 +97,23 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-7-inconsistent-data-entry.ipynb)
 
-6. [Feature Engineering-9-Principal_Component_Analysis.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Feature%20Engineering-9-Principal_Component_Analysis.ipynb)
+6. [Feature Engineering-9-Principal_Component_Analysis.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-9-Principal_Component_Analysis.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-9-Principal_Component_Analysis.ipynb)
 
 
 - Exercises 
 
-[Feature Engineering_HousePrices_Exercises_1.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Feature%20Engineering_HousePrices_Exercises_1.ipynb)
+[Feature Engineering_HousePrices_Exercises_1.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering_HousePrices_Exercises_1.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering_HousePrices_Exercises_1.ipynb)
 
 
 - Exercises (Advanced)
 
-[Feature Engineering-titanic-advanced-feature-engineering-tutorial.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Feature%20Engineering-titanic-advanced-feature-engineering-tutorial.ipynb)
+[Feature Engineering-titanic-advanced-feature-engineering-tutorial.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-titanic-advanced-feature-engineering-tutorial.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day3-FeatureSelection/notebooks/Feature%20Engineering-titanic-advanced-feature-engineering-tutorial.ipynb)
-
 
 ### Day4-ProbabilityStatistics
 
