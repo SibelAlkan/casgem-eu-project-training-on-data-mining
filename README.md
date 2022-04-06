@@ -184,6 +184,13 @@ Uygulamalar
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day6-SupportVectorMachines/notebooks/Day6_SupportVectorMachines_Exercises_1.ipynb)
 
 
+- Exercises (Solution)
+
+4. [Day6_SupportVectorMachines_Exercises_1(Solution).ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day6-SupportVectorMachines/notebooks/Day6_SupportVectorMachines_Exercises_1(Solution).ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day6-SupportVectorMachines/notebooks/Day6_SupportVectorMachines_Exercises_1(Solution).ipynb)
+
+
 ### Day7-DecisionTree
 
 1. [Day7-DecisionTree-Demo1.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7-DecisionTree-Demo1.ipynb)
