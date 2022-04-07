@@ -1,6 +1,10 @@
 ## PART1
 ### Day7-DecisionTree
 
+0. [Day7-DecisionTree-Demo0.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7-DecisionTree-Demo0.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7-DecisionTree-Demo0.ipynb)
+
 1. [Day7-DecisionTree-Demo1.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7-DecisionTree-Demo1.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7-DecisionTree-Demo1.ipynb)
