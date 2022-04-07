@@ -20,3 +20,7 @@
 4. [Day7_DecisionTree_Demo4.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7_DecisionTree_Demo4.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7_DecisionTree_Demo4.ipynb)
+
+5. [Day7_DecisionTree_Demo5.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7_DecisionTree_Demo4.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day7-DecisionTree/notebooks/Day7_DecisionTree_Demo5.ipynb)
