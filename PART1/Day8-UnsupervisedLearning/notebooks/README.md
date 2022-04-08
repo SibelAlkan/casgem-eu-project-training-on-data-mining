@@ -8,3 +8,15 @@
 1. [Day8_UnsupervisedLearning_online_retail_k_means_hierarchical_clustering_Demo1.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day8-UnsupervisedLearning/notebooks/Day8_UnsupervisedLearning_online_retail_k_means_hierarchical_clustering_Demo1.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day8-UnsupervisedLearning/notebooks/Day8_UnsupervisedLearning_online_retail_k_means_hierarchical_clustering_Demo1.ipynb)
+
+2. [Day8_UnsupervisedLearning_DBSCAN_Demo2.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day8-UnsupervisedLearning/notebooks/Day8_UnsupervisedLearning_DBSCAN_Demo2.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day8-UnsupervisedLearning/notebooks/Day8_UnsupervisedLearning_DBSCAN_Demo2.ipynb)
+
+3. [Day8_UnsupervisedLearning_association_rule_based_learning_explained_Demo3.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day8-UnsupervisedLearning/notebooks/Day8_UnsupervisedLearning_association_rule_based_learning_explained_Demo3.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day8-UnsupervisedLearning/notebooks/Day8_UnsupervisedLearning_association_rule_based_learning_explained_Demo3.ipynb)
+
+4. [Day8_UnsupervisedLearning_Market_Basket_Analysis_Using_Apyori_Demo4.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day8-UnsupervisedLearning/notebooks/Day8_UnsupervisedLearning_Market_Basket_Analysis_Using_Apyori_Demo4.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART1/Day8-UnsupervisedLearning/notebooks/Day8_UnsupervisedLearning_Market_Basket_Analysis_Using_Apyori_Demo4.ipynb)
