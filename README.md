@@ -19,6 +19,11 @@
 
 
 ## PART2
-1. ### [Day9-NeuralNetworks](PART2/Day9-NeuralNetworks)
+9. ### [Day9-NeuralNetworks](PART2/Day9-NeuralNetworks)
 
-1. ### [Day10-NeuralNetworks](PART2/Day10-NeuralNetworks)
+10. ### [Day10-NeuralNetworks](PART2/Day10-NeuralNetworks)
+
+11. ### [Day11-DeepLearning](PART2/Day11-DeepLearning)
+
+
+12. ### [Day12-Optimization](PART2/Day12-Optimization)
