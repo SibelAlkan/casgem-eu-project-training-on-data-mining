@@ -21,3 +21,4 @@
 ## PART2
 1. ### [Day9-NeuralNetworks](PART2/Day9-NeuralNetworks)
 
+1. ### [Day10-NeuralNetworks](PART2/Day10-NeuralNetworks)
