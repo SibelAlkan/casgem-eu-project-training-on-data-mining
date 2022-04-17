@@ -1,7 +1,7 @@
 # ÇASGEM EU Project - Training on Data Mining in OHS Notebooks
 
 ## PART1
-1. ### [Day1-Introduction](PART1/Day1-Intro/notebooks) 
+1. ### [Day1-Introduction](PART1/Day1-Intro/notebooks) :paperclip: [Download presentation](PART1/Day1-Intro/Day1_Introduction.pdf)
 
 2. ### [Day2-LinearAlgebra](PART1/Day2-LinearAlgebra/notebooks)
 
