@@ -17,3 +17,7 @@
 
 8. ### [Day8-UnsupervisedLearning](PART1/Day8-UnsupervisedLearning/notebooks)
 
+
+## PART2
+1. ### [Day9-NeuralNetworks](PART2/Day9-NeuralNetworks)
+
