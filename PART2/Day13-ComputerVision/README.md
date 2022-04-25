@@ -1,5 +1,25 @@
 ## PART2
 
+
+### Day13-ImageProcessing
+1. [Day13_CV_digital_image_processing_1_intro.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_CV_digital_image_processing_1_intro.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_CV_digital_image_processing_1_intro.ipynb)
+
+
+2. [Day13_CV_digital_image_processing_2_Image_read_and_save.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_CV_digital_image_processing_2_Image_read_and_save.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_CV_digital_image_processing_2_Image_read_and_save.ipynb)
+
+3. [Day13_CV_digital_image_processing_3_Filters.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_CV_digital_image_processing_3_Filters.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_CV_digital_image_processing_3_Filters.ipynb)
+
+4. [Day13_CV_digital_image_processing_4_Morphological_image_processing.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_CV_digital_image_processing_4_Morphological_image_processing.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_CV_digital_image_processing_4_Morphological_image_processing.ipynb)
+
+
 ### Day13-ComputerVision
 1. [Day13_ComputerVision_tensorflow_tutorials_1_cnn.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day13-ComputerVision/notebooks/Day13_ComputerVision_tensorflow_tutorials_1_cnn.ipynb)
 
