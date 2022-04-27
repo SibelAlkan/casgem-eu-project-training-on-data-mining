@@ -2,7 +2,7 @@
 
 ### Day14-Natural Language Processing
 
-Preprocessing
+#### Preprocessing
 
 1. [Day14_NLP_Preprocessing_1.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Preprocessing_1.ipynb)
 
@@ -28,13 +28,13 @@ Representations
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/DAY14_NLP_Representations_5_Sequences_LSTM.ipynb)
 
-Analysis 
+#### Analysis 
 
 6. [Day14_NLP_Word2vec_TR_Analysis.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Word2vec_TR_Analysis.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Word2vec_TR_Analysis.ipynb)
 
-Classification 
+#### Classification 
 
 7. [Day14_NLP_Classification_HepsiburadaTR_6_DL_GRU.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Classification_HepsiburadaTR_6_DL_GRU.ipynb)
 
@@ -49,8 +49,15 @@ Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Classification_Product_ReviewsTR_9_fine_tuned_BERT_Turkish.ipynb)
 
-Pipeline Huggingface
+#### Pipeline Huggingface
 
 10. [Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb)
+
+
+#### Exercises - yemeksepeti_sentiment_analysis
+
+10. [Day14_NLP_exercises_yemeksepeti_sentiment_analysis.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_exercises_yemeksepeti_sentiment_analysis.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_exercises_yemeksepeti_sentiment_analysis.ipynb)
