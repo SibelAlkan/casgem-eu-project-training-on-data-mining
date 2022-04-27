@@ -42,3 +42,10 @@ Classification
 8. [Day14_NLP_Classification_NewsTR_7_TF_IDF_SVM.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Classification_NewsTR_7_TF_IDF_SVM.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Classification_NewsTR_7_TF_IDF_SVM.ipynb)
+
+
+Pipeline Huggingface
+
+9. [Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb)
