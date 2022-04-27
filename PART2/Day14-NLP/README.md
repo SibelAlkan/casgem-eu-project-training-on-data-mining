@@ -20,7 +20,9 @@ Representations
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/DAY14_NLP_Representations_3_TF_IDF_SVM.ipynb)
 
 
-4. 
+4. [DAY14_NLP_Representations_4_Word2Vec_SVM.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/DAY14_NLP_Representations_4_Word2Vec_SVM.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/DAY14_NLP_Representations_4_Word2Vec_SVM.ipynb)
 
 5. [DAY14_NLP_Representations_5_Sequences_LSTM.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/DAY14_NLP_Representations_5_Sequences_LSTM.ipynb)
 
@@ -43,9 +45,12 @@ Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Classification_NewsTR_7_TF_IDF_SVM.ipynb)
 
+9. [Day14_NLP_Classification_Product_ReviewsTR_9_fine_tuned_BERT_Turkish.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Classification_Product_ReviewsTR_9_fine_tuned_BERT_Turkish.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Classification_Product_ReviewsTR_9_fine_tuned_BERT_Turkish.ipynb)
 
 Pipeline Huggingface
 
-9. [Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb)
+10. [Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yapay-ogrenme/casgem-eu-project-training-on-data-mining/blob/main/PART2/Day14-NLP/notebooks/Day14_NLP_Turkish_NLP_Pipeline_Huggingface.ipynb)
